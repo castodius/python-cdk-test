@@ -1,0 +1,8 @@
+indent-width = 2
+
+[lint]
+extend-select = ['D300', 'F401']
+
+[format]
+quote-style = 'single'
+indent-style = 'space'
