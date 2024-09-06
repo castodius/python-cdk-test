@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from os import getenv
 from aws_cdk import App
 from src.dummy_stack import DummyStack
 
